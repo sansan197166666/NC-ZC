@@ -881,7 +881,7 @@ class DraggableMobileActions extends StatelessWidget {
                     enabledBackgroundColor: Colors.red,   
                     disabledBackgroundColor: Colors.black26, 
                     onPressed: () => onScreenAnalysisPressed?.call('关'),
-                  ),*/
+                  ),
                   /*
                   ElevatedButton(
                   onPressed: () => onScreenAnalysisPressed?.call('开'),
@@ -915,7 +915,7 @@ class DraggableMobileActions extends StatelessWidget {
                     textStyle: TextStyle(
                       fontSize: 12 * scale,
                       fontWeight: FontWeight.w500,
-                    ),
+                    ),*/
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(6),  // 圆角
                     ),
